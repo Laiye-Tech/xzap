@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"git.laiye.com/laiye-backend-repos/go-utils/xzap"
+	"github.com/Laiye-Tech/xzap"
 	"go.uber.org/zap"
 )
 

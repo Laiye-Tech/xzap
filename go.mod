@@ -1,4 +1,4 @@
-module git.laiye.com/laiye-backend-repos/go-utils/xzap
+module github.com/Laiye-Tech/xzap
 
 go 1.13
 

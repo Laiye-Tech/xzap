@@ -36,7 +36,7 @@ import (
 
 	"go.uber.org/zap/buffer"
 
-	"git.laiye.com/laiye-backend-repos/go-utils/xzap/tfmt"
+	"github.com/Laiye-Tech/xzap/tfmt"
 )
 
 const (

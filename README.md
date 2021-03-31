@@ -31,7 +31,7 @@ ctx = xzap.InjectCtx(ctx, xzap.WithDebug())
 
 ## 下载
 
-go get git.laiye.com/laiye-backend-repos/go-utils/xzap
+go get github.com/Laiye-Tech/xzap
 
 ## 兼容性
 

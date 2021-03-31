@@ -8,7 +8,7 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	"git.laiye.com/laiye-backend-repos/go-utils/xzap/lumberjack"
+	"github.com/Laiye-Tech/xzap/lumberjack"
 )
 
 var logger *zap.Logger

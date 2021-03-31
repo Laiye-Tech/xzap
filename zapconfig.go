@@ -10,7 +10,7 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	"git.laiye.com/laiye-backend-repos/go-utils/xzap/tfmt"
+	"github.com/Laiye-Tech/xzap/tfmt"
 )
 
 func zapConfig() *zap.Config {
