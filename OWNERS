@@ -1,0 +1,6 @@
+# see the OWNERS docs at https://go.k8s.io/owners
+
+approvers:
+- zhangyong
+reviewers:
+- zhangyong
